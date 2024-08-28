@@ -1,0 +1,7 @@
+quando o main esta na mesma pasta usar:
+from carro_atv8 import Carro
+
+
+carro.py
+from veiculo_atv8 import Veiculo
+
